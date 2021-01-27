@@ -1,0 +1,28 @@
+body{
+    background-image: url("3.jpg");
+    height:800px;
+    width: 800px;
+    background-repeat: no-repeat;
+    
+}
+h1{
+    color: khaki;
+    font-size: 80px;
+    font-family: fantasy;
+    font-weight: bolder;
+}
+.aj{
+    font-size: 30px;
+    color: lightyellow;
+    font-family: monospace;
+}
+.k{
+    position: relative;
+    top: 230px;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a:hover{
+    color: azure;
+    text-decoration: none;
+}
